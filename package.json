@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ronansalvador.github.io/estudos-e-teste-ronansalvador/ronansalvador",
+  "homepage": "https://ronansalvador.github.io/estudos-e-teste-ronansalvador/ronansalvador/",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
