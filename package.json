@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ronansalvador.github.io/estudos-e-teste-ronansalvador/ronansalvador",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+  
+}
